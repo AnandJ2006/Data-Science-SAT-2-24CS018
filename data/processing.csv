@@ -1,0 +1,251 @@
+claim_number,assignee,process_stage,settlement_days
+CLM0001,Agent E,Payment,27.0
+CLM0002,Agent B,Document Verification,-3.0
+CLM0003,Agent B,Investigation,22.0
+CLM0004,Agent E,Payment,9.0
+CLM0005,Agent B,Registration,11.0
+CLM0006,Agent A,Payment,30.0
+CLM0007,Agent B,Approval,8.0
+CLM0008,Agent B,Registration,12.0
+CLM0009,Agent C,Approval,56.0
+CLM0010,Agent A,Assessment,8.0
+CLM0011,Agent D,Approval,27.0
+CLM0012,Agent A,Approval,2.0
+CLM0013,Agent E,Assessment,39.0
+CLM0014,Agent E,Approval,26.0
+CLM0015,Agent C,Investigation,34.0
+CLM0016,Agent A,Registration,11.0
+CLM0017,Agent D,Assessment,16.0
+CLM0018,Agent E,Investigation,6.0
+CLM0019,Agent E,Registration,9.0
+CLM0020,Agent A,Payment,52.0
+CLM0021,Agent E,Approval,57.0
+CLM0022,Agent A,Registration,4.0
+CLM0023,Agent B,Approval,31.0
+CLM0024,Agent B,Registration,59.0
+CLM0025,Agent D,Investigation,29.0
+CLM0026,Agent D,Approval,4.0
+CLM0027,Agent D,Payment,39.0
+CLM0028,Agent B,Approval,47.0
+CLM0029,Agent B,Payment,44.0
+CLM0030,Agent B,Approval,31.0
+CLM0031,Agent E,Approval,51.0
+CLM0032,Agent E,Payment,51.0
+CLM0033,Agent A,Approval,5.0
+CLM0034,Agent E,Approval,44.0
+CLM0035,Agent B,Investigation,3.0
+CLM0036,Agent C,Registration,17.0
+CLM0037,Agent A,Payment,50.0
+CLM0038,Agent B,Approval,53.0
+CLM0039,Agent B,Assessment,44.0
+CLM0040,Agent B,Assessment,52.0
+CLM0041,Agent E,Registration,16.0
+CLM0042,Agent D,Approval,24.0
+CLM0043,Agent C,Registration,18.0
+CLM0044,Agent B,Registration,31.0
+CLM0045,Agent B,Payment,27.0
+CLM0046,Agent C,Approval,4.0
+CLM0047,Agent B,Assessment,56.0
+CLM0048,Agent E,Document Verification,21.0
+CLM0049,Agent B,Assessment,57.0
+CLM0050,Agent D,Payment,41.0
+CLM0051,Agent E,Assessment,24.0
+CLM0052,Agent C,Payment,37.0
+CLM0053,Agent B,Payment,13.0
+CLM0054,Agent D,Document Verification,17.0
+CLM0055,Agent E,Approval,35.0
+CLM0056,Agent A,Approval,28.0
+CLM0057,Agent A,Payment,21.0
+CLM0058,Agent D,Document Verification,19.0
+CLM0059,Agent B,Investigation,57.0
+CLM0060,Agent C,Payment,39.0
+CLM0061,Agent E,Document Verification,17.0
+CLM0062,Agent D,Registration,56.0
+CLM0063,Agent B,Document Verification,48.0
+CLM0064,Agent C,Document Verification,7.0
+CLM0065,Agent A,Payment,47.0
+CLM0066,Agent B,Registration,53.0
+CLM0067,Agent C,Assessment,-1.0
+CLM0068,Agent E,Registration,34.0
+CLM0069,Agent C,Document Verification,55.0
+CLM0070,Agent B,Registration,9.0
+CLM0071,Agent A,Registration,52.0
+CLM0072,Agent E,Investigation,43.0
+CLM0073,Agent B,Investigation,46.0
+CLM0074,Agent E,Approval,8.0
+CLM0075,Agent A,Assessment,35.0
+CLM0076,Agent C,Registration,27.0
+CLM0077,Agent B,Payment,11.0
+CLM0078,Agent E,Approval,18.0
+CLM0079,Agent E,Investigation,9.0
+CLM0080,Agent E,Registration,16.0
+CLM0081,Agent B,Payment,50.0
+CLM0082,Agent B,Payment,7.0
+CLM0083,Agent D,Registration,55.0
+CLM0084,Agent C,Registration,26.0
+CLM0085,Agent B,Approval,13.0
+CLM0086,Agent A,Registration,45.0
+CLM0087,Agent C,Investigation,43.0
+CLM0088,Agent C,Registration,13.0
+CLM0089,Agent D,Assessment,-6.0
+CLM0090,Agent A,Payment,31.0
+CLM0091,Agent A,Approval,41.0
+CLM0092,Agent A,Document Verification,58.0
+CLM0093,Agent E,Payment,15.0
+CLM0094,Agent E,Assessment,10.0
+CLM0095,Agent C,Registration,32.0
+CLM0096,Agent D,Document Verification,21.0
+CLM0097,Agent B,Investigation,25.0
+CLM0098,Agent A,Registration,40.0
+CLM0099,Agent E,Registration,18.0
+CLM0100,Agent C,Approval,32.0
+CLM0101,Agent D,Assessment,53.0
+CLM0102,Agent E,Document Verification,43.0
+CLM0103,Agent C,Investigation,6.0
+CLM0104,Agent D,Registration,17.0
+CLM0105,Agent D,Approval,43.0
+CLM0106,Agent A,Assessment,11.0
+CLM0107,Agent B,Registration,38.0
+CLM0108,Agent D,Assessment,57.0
+CLM0109,Agent B,Assessment,44.0
+CLM0110,Agent D,Payment,30.0
+CLM0111,Agent C,Document Verification,-3.0
+CLM0112,Agent A,Approval,48.0
+CLM0113,Agent D,Approval,19.0
+CLM0114,Agent D,Investigation,37.0
+CLM0115,Agent E,Payment,19.0
+CLM0116,Agent E,Document Verification,43.0
+CLM0117,Agent A,Payment,18.0
+CLM0118,Agent D,Assessment,31.0
+CLM0119,Agent D,Registration,32.0
+CLM0120,Agent C,Investigation,46.0
+CLM0121,Agent E,Approval,38.0
+CLM0122,Agent C,Assessment,39.0
+CLM0123,Agent B,Assessment,23.0
+CLM0124,Agent E,Assessment,23.0
+CLM0125,Agent E,Approval,29.0
+CLM0126,Agent C,Investigation,38.0
+CLM0127,Agent A,Investigation,12.0
+CLM0128,Agent D,Investigation,42.0
+CLM0129,Agent C,Payment,50.0
+CLM0130,Agent A,Document Verification,48.0
+CLM0131,Agent A,Investigation,36.0
+CLM0132,Agent B,Assessment,19.0
+CLM0133,Agent A,Approval,17.0
+CLM0134,Agent E,Registration,39.0
+CLM0135,Agent A,Approval,11.0
+CLM0136,Agent C,Assessment,3.0
+CLM0137,Agent A,Registration,37.0
+CLM0138,Agent E,Investigation,2.0
+CLM0139,Agent E,Payment,6.0
+CLM0140,Agent A,Approval,18.0
+CLM0141,Agent D,Investigation,58.0
+CLM0142,Agent C,Document Verification,24.0
+CLM0143,Agent B,Registration,32.0
+CLM0144,Agent B,Approval,28.0
+CLM0145,Agent C,Investigation,7.0
+CLM0146,Agent A,Investigation,48.0
+CLM0147,Agent E,Investigation,26.0
+CLM0148,Agent D,Assessment,55.0
+CLM0149,Agent A,Document Verification,8.0
+CLM0150,Agent A,Registration,28.0
+CLM0151,Agent E,Approval,59.0
+CLM0152,Agent A,Investigation,14.0
+CLM0153,Agent C,Registration,32.0
+CLM0154,Agent E,Investigation,34.0
+CLM0155,Agent B,Payment,4.0
+CLM0156,Agent C,Approval,17.0
+CLM0157,Agent B,Payment,41.0
+CLM0158,Agent B,Assessment,31.0
+CLM0159,Agent D,Approval,35.0
+CLM0160,Agent B,Registration,29.0
+CLM0161,Agent C,Registration,27.0
+CLM0162,Agent E,Assessment,13.0
+CLM0163,Agent B,Registration,37.0
+CLM0164,Agent B,Approval,35.0
+CLM0165,Agent B,Document Verification,13.0
+CLM0166,Agent A,Investigation,26.0
+CLM0167,Agent E,Approval,36.0
+CLM0168,Agent C,Assessment,7.0
+CLM0169,Agent D,Payment,59.0
+CLM0170,Agent C,Approval,38.0
+CLM0171,Agent A,Document Verification,14.0
+CLM0172,Agent E,Investigation,48.0
+CLM0173,Agent E,Payment,31.0
+CLM0174,Agent C,Document Verification,29.0
+CLM0175,Agent A,Investigation,11.0
+CLM0176,Agent D,Investigation,36.0
+CLM0177,Agent C,Payment,15.0
+CLM0178,Agent B,Payment,29.0
+CLM0179,Agent D,Assessment,22.0
+CLM0180,Agent A,Assessment,8.0
+CLM0181,Agent D,Investigation,12.0
+CLM0182,Agent B,Document Verification,20.0
+CLM0183,Agent D,Assessment,31.0
+CLM0184,Agent D,Investigation,26.0
+CLM0185,Agent E,Registration,38.0
+CLM0186,Agent B,Registration,6.0
+CLM0187,Agent B,Document Verification,31.0
+CLM0188,Agent B,Document Verification,60.0
+CLM0189,Agent D,Payment,19.0
+CLM0190,Agent B,Registration,58.0
+CLM0191,Agent B,Document Verification,43.0
+CLM0192,Agent D,Assessment,40.0
+CLM0193,Agent D,Approval,57.0
+CLM0194,Agent B,Payment,23.0
+CLM0195,Agent D,Document Verification,7.0
+CLM0196,Agent B,Document Verification,19.0
+CLM0197,Agent C,Approval,24.0
+CLM0198,Agent B,Assessment,20.0
+CLM0199,Agent B,Document Verification,49.0
+CLM0200,Agent C,Investigation,9.0
+CLM0201,Agent B,Approval,26.0
+CLM0202,Agent C,Registration,32.0
+CLM0203,Agent B,Approval,4.0
+CLM0204,Agent A,Assessment,6.0
+CLM0205,Agent D,Payment,37.0
+CLM0206,Agent B,Document Verification,59.0
+CLM0207,Agent E,Payment,24.0
+CLM0208,Agent B,Payment,5.0
+CLM0209,Agent B,Approval,8.0
+CLM0210,Agent E,Assessment,43.0
+CLM0211,Agent E,Document Verification,37.0
+CLM0212,Agent A,Registration,54.0
+CLM0213,Agent E,Registration,47.0
+CLM0214,Agent D,Registration,-2.0
+CLM0215,Agent D,Assessment,46.0
+CLM0216,Agent A,Payment,21.0
+CLM0217,Agent A,Approval,11.0
+CLM0218,Agent A,Payment,24.0
+CLM0219,Agent B,Assessment,5.0
+CLM0220,Agent E,Registration,2.0
+CLM0221,Agent A,Registration,17.0
+CLM0222,Agent A,Investigation,4.0
+CLM0223,Agent D,Investigation,58.0
+CLM0224,Agent A,Document Verification,57.0
+CLM0225,Agent C,Document Verification,7.0
+CLM0226,Agent D,Payment,55.0
+CLM0227,Agent E,Registration,9.0
+CLM0228,Agent E,Document Verification,7.0
+CLM0229,Agent E,Approval,5.0
+CLM0230,Agent A,Investigation,57.0
+CLM0231,Agent D,Investigation,36.0
+CLM0232,Agent C,Investigation,44.0
+CLM0233,Agent A,Registration,52.0
+CLM0234,Agent A,Assessment,2.0
+CLM0235,Agent C,Approval,44.0
+CLM0236,Agent D,Payment,32.0
+CLM0237,Agent E,Approval,13.0
+CLM0238,Agent B,Registration,23.0
+CLM0239,Agent E,Assessment,50.0
+CLM0240,Agent C,Approval,49.0
+CLM0241,Agent C,Payment,14.0
+CLM0242,Agent A,Registration,42.0
+CLM0243,Agent B,Document Verification,41.0
+CLM0244,Agent E,Assessment,30.0
+CLM0245,Agent E,Investigation,7.0
+CLM0246,Agent B,Payment,39.0
+CLM0247,Agent B,Assessment,9.0
+CLM0248,Agent E,Registration,27.0
+CLM0249,Agent D,Investigation,3.0
+CLM0250,Agent A,Assessment,15.0

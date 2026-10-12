@@ -1,0 +1,251 @@
+claim_number,assignee,process_stage,settlement_days,invalid_settlement
+CLM0001,Agent E,Payment,27.0,False
+CLM0002,Agent B,Document Verification,29.0,True
+CLM0003,Agent B,Investigation,22.0,False
+CLM0004,Agent E,Payment,9.0,False
+CLM0005,Agent B,Registration,11.0,False
+CLM0006,Agent A,Payment,30.0,False
+CLM0007,Agent B,Approval,8.0,False
+CLM0008,Agent B,Registration,12.0,False
+CLM0009,Agent C,Approval,56.0,False
+CLM0010,Agent A,Assessment,8.0,False
+CLM0011,Agent D,Approval,27.0,False
+CLM0012,Agent A,Approval,2.0,False
+CLM0013,Agent E,Assessment,39.0,False
+CLM0014,Agent E,Approval,26.0,False
+CLM0015,Agent C,Investigation,34.0,False
+CLM0016,Agent A,Registration,11.0,False
+CLM0017,Agent D,Assessment,16.0,False
+CLM0018,Agent E,Investigation,6.0,False
+CLM0019,Agent E,Registration,9.0,False
+CLM0020,Agent A,Payment,52.0,False
+CLM0021,Agent E,Approval,57.0,False
+CLM0022,Agent A,Registration,4.0,False
+CLM0023,Agent B,Approval,31.0,False
+CLM0024,Agent B,Registration,59.0,False
+CLM0025,Agent D,Investigation,29.0,False
+CLM0026,Agent D,Approval,4.0,False
+CLM0027,Agent D,Payment,39.0,False
+CLM0028,Agent B,Approval,47.0,False
+CLM0029,Agent B,Payment,44.0,False
+CLM0030,Agent B,Approval,31.0,False
+CLM0031,Agent E,Approval,51.0,False
+CLM0032,Agent E,Payment,51.0,False
+CLM0033,Agent A,Approval,5.0,False
+CLM0034,Agent E,Approval,44.0,False
+CLM0035,Agent B,Investigation,3.0,False
+CLM0036,Agent C,Registration,17.0,False
+CLM0037,Agent A,Payment,50.0,False
+CLM0038,Agent B,Approval,53.0,False
+CLM0039,Agent B,Assessment,44.0,False
+CLM0040,Agent B,Assessment,52.0,False
+CLM0041,Agent E,Registration,16.0,False
+CLM0042,Agent D,Approval,24.0,False
+CLM0043,Agent C,Registration,18.0,False
+CLM0044,Agent B,Registration,31.0,False
+CLM0045,Agent B,Payment,27.0,False
+CLM0046,Agent C,Approval,4.0,False
+CLM0047,Agent B,Assessment,56.0,False
+CLM0048,Agent E,Document Verification,21.0,False
+CLM0049,Agent B,Assessment,57.0,False
+CLM0050,Agent D,Payment,41.0,False
+CLM0051,Agent E,Assessment,24.0,False
+CLM0052,Agent C,Payment,37.0,False
+CLM0053,Agent B,Payment,13.0,False
+CLM0054,Agent D,Document Verification,17.0,False
+CLM0055,Agent E,Approval,35.0,False
+CLM0056,Agent A,Approval,28.0,False
+CLM0057,Agent A,Payment,21.0,False
+CLM0058,Agent D,Document Verification,19.0,False
+CLM0059,Agent B,Investigation,57.0,False
+CLM0060,Agent C,Payment,39.0,False
+CLM0061,Agent E,Document Verification,17.0,False
+CLM0062,Agent D,Registration,56.0,False
+CLM0063,Agent B,Document Verification,48.0,False
+CLM0064,Agent C,Document Verification,7.0,False
+CLM0065,Agent A,Payment,47.0,False
+CLM0066,Agent B,Registration,53.0,False
+CLM0067,Agent C,Assessment,29.0,True
+CLM0068,Agent E,Registration,34.0,False
+CLM0069,Agent C,Document Verification,55.0,False
+CLM0070,Agent B,Registration,9.0,False
+CLM0071,Agent A,Registration,52.0,False
+CLM0072,Agent E,Investigation,43.0,False
+CLM0073,Agent B,Investigation,46.0,False
+CLM0074,Agent E,Approval,8.0,False
+CLM0075,Agent A,Assessment,35.0,False
+CLM0076,Agent C,Registration,27.0,False
+CLM0077,Agent B,Payment,11.0,False
+CLM0078,Agent E,Approval,18.0,False
+CLM0079,Agent E,Investigation,9.0,False
+CLM0080,Agent E,Registration,16.0,False
+CLM0081,Agent B,Payment,50.0,False
+CLM0082,Agent B,Payment,7.0,False
+CLM0083,Agent D,Registration,55.0,False
+CLM0084,Agent C,Registration,26.0,False
+CLM0085,Agent B,Approval,13.0,False
+CLM0086,Agent A,Registration,45.0,False
+CLM0087,Agent C,Investigation,43.0,False
+CLM0088,Agent C,Registration,13.0,False
+CLM0089,Agent D,Assessment,29.0,True
+CLM0090,Agent A,Payment,31.0,False
+CLM0091,Agent A,Approval,41.0,False
+CLM0092,Agent A,Document Verification,58.0,False
+CLM0093,Agent E,Payment,15.0,False
+CLM0094,Agent E,Assessment,10.0,False
+CLM0095,Agent C,Registration,32.0,False
+CLM0096,Agent D,Document Verification,21.0,False
+CLM0097,Agent B,Investigation,25.0,False
+CLM0098,Agent A,Registration,40.0,False
+CLM0099,Agent E,Registration,18.0,False
+CLM0100,Agent C,Approval,32.0,False
+CLM0101,Agent D,Assessment,53.0,False
+CLM0102,Agent E,Document Verification,43.0,False
+CLM0103,Agent C,Investigation,6.0,False
+CLM0104,Agent D,Registration,17.0,False
+CLM0105,Agent D,Approval,43.0,False
+CLM0106,Agent A,Assessment,11.0,False
+CLM0107,Agent B,Registration,38.0,False
+CLM0108,Agent D,Assessment,57.0,False
+CLM0109,Agent B,Assessment,44.0,False
+CLM0110,Agent D,Payment,30.0,False
+CLM0111,Agent C,Document Verification,29.0,True
+CLM0112,Agent A,Approval,48.0,False
+CLM0113,Agent D,Approval,19.0,False
+CLM0114,Agent D,Investigation,37.0,False
+CLM0115,Agent E,Payment,19.0,False
+CLM0116,Agent E,Document Verification,43.0,False
+CLM0117,Agent A,Payment,18.0,False
+CLM0118,Agent D,Assessment,31.0,False
+CLM0119,Agent D,Registration,32.0,False
+CLM0120,Agent C,Investigation,46.0,False
+CLM0121,Agent E,Approval,38.0,False
+CLM0122,Agent C,Assessment,39.0,False
+CLM0123,Agent B,Assessment,23.0,False
+CLM0124,Agent E,Assessment,23.0,False
+CLM0125,Agent E,Approval,29.0,False
+CLM0126,Agent C,Investigation,38.0,False
+CLM0127,Agent A,Investigation,12.0,False
+CLM0128,Agent D,Investigation,42.0,False
+CLM0129,Agent C,Payment,50.0,False
+CLM0130,Agent A,Document Verification,48.0,False
+CLM0131,Agent A,Investigation,36.0,False
+CLM0132,Agent B,Assessment,19.0,False
+CLM0133,Agent A,Approval,17.0,False
+CLM0134,Agent E,Registration,39.0,False
+CLM0135,Agent A,Approval,11.0,False
+CLM0136,Agent C,Assessment,3.0,False
+CLM0137,Agent A,Registration,37.0,False
+CLM0138,Agent E,Investigation,2.0,False
+CLM0139,Agent E,Payment,6.0,False
+CLM0140,Agent A,Approval,18.0,False
+CLM0141,Agent D,Investigation,58.0,False
+CLM0142,Agent C,Document Verification,24.0,False
+CLM0143,Agent B,Registration,32.0,False
+CLM0144,Agent B,Approval,28.0,False
+CLM0145,Agent C,Investigation,7.0,False
+CLM0146,Agent A,Investigation,48.0,False
+CLM0147,Agent E,Investigation,26.0,False
+CLM0148,Agent D,Assessment,55.0,False
+CLM0149,Agent A,Document Verification,8.0,False
+CLM0150,Agent A,Registration,28.0,False
+CLM0151,Agent E,Approval,59.0,False
+CLM0152,Agent A,Investigation,14.0,False
+CLM0153,Agent C,Registration,32.0,False
+CLM0154,Agent E,Investigation,34.0,False
+CLM0155,Agent B,Payment,4.0,False
+CLM0156,Agent C,Approval,17.0,False
+CLM0157,Agent B,Payment,41.0,False
+CLM0158,Agent B,Assessment,31.0,False
+CLM0159,Agent D,Approval,35.0,False
+CLM0160,Agent B,Registration,29.0,False
+CLM0161,Agent C,Registration,27.0,False
+CLM0162,Agent E,Assessment,13.0,False
+CLM0163,Agent B,Registration,37.0,False
+CLM0164,Agent B,Approval,35.0,False
+CLM0165,Agent B,Document Verification,13.0,False
+CLM0166,Agent A,Investigation,26.0,False
+CLM0167,Agent E,Approval,36.0,False
+CLM0168,Agent C,Assessment,7.0,False
+CLM0169,Agent D,Payment,59.0,False
+CLM0170,Agent C,Approval,38.0,False
+CLM0171,Agent A,Document Verification,14.0,False
+CLM0172,Agent E,Investigation,48.0,False
+CLM0173,Agent E,Payment,31.0,False
+CLM0174,Agent C,Document Verification,29.0,False
+CLM0175,Agent A,Investigation,11.0,False
+CLM0176,Agent D,Investigation,36.0,False
+CLM0177,Agent C,Payment,15.0,False
+CLM0178,Agent B,Payment,29.0,False
+CLM0179,Agent D,Assessment,22.0,False
+CLM0180,Agent A,Assessment,8.0,False
+CLM0181,Agent D,Investigation,12.0,False
+CLM0182,Agent B,Document Verification,20.0,False
+CLM0183,Agent D,Assessment,31.0,False
+CLM0184,Agent D,Investigation,26.0,False
+CLM0185,Agent E,Registration,38.0,False
+CLM0186,Agent B,Registration,6.0,False
+CLM0187,Agent B,Document Verification,31.0,False
+CLM0188,Agent B,Document Verification,60.0,False
+CLM0189,Agent D,Payment,19.0,False
+CLM0190,Agent B,Registration,58.0,False
+CLM0191,Agent B,Document Verification,43.0,False
+CLM0192,Agent D,Assessment,40.0,False
+CLM0193,Agent D,Approval,57.0,False
+CLM0194,Agent B,Payment,23.0,False
+CLM0195,Agent D,Document Verification,7.0,False
+CLM0196,Agent B,Document Verification,19.0,False
+CLM0197,Agent C,Approval,24.0,False
+CLM0198,Agent B,Assessment,20.0,False
+CLM0199,Agent B,Document Verification,49.0,False
+CLM0200,Agent C,Investigation,9.0,False
+CLM0201,Agent B,Approval,26.0,False
+CLM0202,Agent C,Registration,32.0,False
+CLM0203,Agent B,Approval,4.0,False
+CLM0204,Agent A,Assessment,6.0,False
+CLM0205,Agent D,Payment,37.0,False
+CLM0206,Agent B,Document Verification,59.0,False
+CLM0207,Agent E,Payment,24.0,False
+CLM0208,Agent B,Payment,5.0,False
+CLM0209,Agent B,Approval,8.0,False
+CLM0210,Agent E,Assessment,43.0,False
+CLM0211,Agent E,Document Verification,37.0,False
+CLM0212,Agent A,Registration,54.0,False
+CLM0213,Agent E,Registration,47.0,False
+CLM0214,Agent D,Registration,29.0,True
+CLM0215,Agent D,Assessment,46.0,False
+CLM0216,Agent A,Payment,21.0,False
+CLM0217,Agent A,Approval,11.0,False
+CLM0218,Agent A,Payment,24.0,False
+CLM0219,Agent B,Assessment,5.0,False
+CLM0220,Agent E,Registration,2.0,False
+CLM0221,Agent A,Registration,17.0,False
+CLM0222,Agent A,Investigation,4.0,False
+CLM0223,Agent D,Investigation,58.0,False
+CLM0224,Agent A,Document Verification,57.0,False
+CLM0225,Agent C,Document Verification,7.0,False
+CLM0226,Agent D,Payment,55.0,False
+CLM0227,Agent E,Registration,9.0,False
+CLM0228,Agent E,Document Verification,7.0,False
+CLM0229,Agent E,Approval,5.0,False
+CLM0230,Agent A,Investigation,57.0,False
+CLM0231,Agent D,Investigation,36.0,False
+CLM0232,Agent C,Investigation,44.0,False
+CLM0233,Agent A,Registration,52.0,False
+CLM0234,Agent A,Assessment,2.0,False
+CLM0235,Agent C,Approval,44.0,False
+CLM0236,Agent D,Payment,32.0,False
+CLM0237,Agent E,Approval,13.0,False
+CLM0238,Agent B,Registration,23.0,False
+CLM0239,Agent E,Assessment,50.0,False
+CLM0240,Agent C,Approval,49.0,False
+CLM0241,Agent C,Payment,14.0,False
+CLM0242,Agent A,Registration,42.0,False
+CLM0243,Agent B,Document Verification,41.0,False
+CLM0244,Agent E,Assessment,30.0,False
+CLM0245,Agent E,Investigation,7.0,False
+CLM0246,Agent B,Payment,39.0,False
+CLM0247,Agent B,Assessment,9.0,False
+CLM0248,Agent E,Registration,27.0,False
+CLM0249,Agent D,Investigation,3.0,False
+CLM0250,Agent A,Assessment,15.0,False

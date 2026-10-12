@@ -1,0 +1,251 @@
+claim_number,policy_id,customer_id,claim_date,claim_type,claim_amount,claim_status,policy_type,premium,tenure_years,region,customer_tenure_years,incident_type,location,severity,assignee,process_stage,settlement_days
+CLM0001,POL1072,CUS2092,2025-06-01,PROPERTY,4313.34,Approved,Property Cover,5222.81,10,North,10,Collision,Pune,High,Agent E,Payment,27.0
+CLM0002,POL1092,CUS2100,2024-07-26,Motor,3523.76,Under Review,Property Cover,11621.55,9,South,14,Theft,Unknown,Low,Agent B,Document Verification,-3.0
+CLM0003,POL1127,CUS2099,2025-08-28,Motor,2932.97,Under Review,Third-Party,29593.88,2,Central,10,Collision,Chennai,Low,Agent B,Investigation,22.0
+CLM0004,POL1062,CUS2042,2025-12-14,Health,23236.71,Approved,Property Cover,27134.15,13,North,12,Theft,Hyderabad,Medium,Agent E,Payment,9.0
+CLM0005,POL1059,CUS2024,2025-05-28,Health,6106.26,Pending,Third-Party,3738.96,3,Central,16,Flood,Madurai,Critical,Agent B,Registration,11.0
+CLM0006,POL1134,CUS2120,2025-06-01,Property,26314.28,Approved,Third-Party,26724.2,15,North,14,Other,Bengaluru,Medium,Agent A,Payment,30.0
+CLM0007,POL1136,CUS2037,2025-01-05,Motor,943.42,Approved,Property Cover,23044.21,7,South,16,Other,Hyderabad,Low,Agent B,Approval,8.0
+CLM0008,POL1098,CUS2140,2024-09-01,Property,6509.52,Approved,Comprehensive,9394.97,4,Central,8,Theft,Bengaluru,Medium,Agent B,Registration,12.0
+CLM0009,POL1149,CUS2191,2025-07-05,Motor,8991.14,Pending,Comprehensive,19319.98,3,East,7,Flood,Unknown,Low,Agent C,Approval,56.0
+CLM0010,POL1092,CUS2074,2025-05-27,Health,8280.1,Rejected,Property Cover,11621.55,9,South,8,Flood,Madurai,Medium,Agent A,Assessment,8.0
+CLM0011,POL1048,CUS2057,2025-08-30,Property,9125.47,Approved,Comprehensive,17318.92,5,West,10,Natural Disaster,Pune,Low,Agent D,Approval,27.0
+CLM0012,POL1114,CUS2109,2025-01-15,Motor,5438.11,Under Review,Third-Party,26322.7,15,West,13,Fire,Hyderabad,Medium,Agent A,Approval,2.0
+CLM0013,POL1107,CUS2014,2025-01-29,Motor,15163.75,Approved,Comprehensive,4653.63,9,East,9,Other,Chennai,Medium,Agent E,Assessment,39.0
+CLM0014,POL1064,CUS2048,2024-09-08,Motor,606.96,Approved,Property Cover,6096.55,8,East,2,Flood,Pune,Low,Agent E,Approval,26.0
+CLM0015,POL1002,CUS2196,2025-06-18,Motor,1689.13,Approved,Property Cover,22320.26,5,South,16,Theft,Madurai,High,Agent C,Investigation,34.0
+CLM0016,POL1150,CUS2063,2024-12-06,PROPERTY,22644.46,Approved,Basic Cover,9258.37,14,East,5,Fire,Chennai,Medium,Agent A,Registration,11.0
+CLM0017,POL1099,CUS2002,2025-03-30,Health,6910.34,Approved,Third-Party,5908.33,6,North,14,Collision,Chennai,Medium,Agent D,Assessment,16.0
+CLM0018,POL1021,CUS2152,2025-10-12,Motor,13959.91,Under Review,Third-Party,10574.58,3,North,13,Natural Disaster,Coimbatore,High,Agent E,Investigation,6.0
+CLM0019,POL1010,CUS2042,2024-06-05,Motor,21749.41,Under Review,Property Cover,20042.17,9,North,12,Collision,Hyderabad,Critical,Agent E,Registration,9.0
+CLM0020,POL1017,CUS2024,2025-01-16,Health,6666.81,Rejected,Basic Cover,5085.06,14,Central,16,Flood,Chennai,Low,Agent A,Payment,52.0
+CLM0021,POL1016,CUS2064,2024-08-26,Motor,2459.3,Approved,Basic Cover,15895.16,12,Central,1,Other,Coimbatore,Medium,Agent E,Approval,57.0
+CLM0022,POL1142,CUS2105,2025-10-20,Motor,3343.71,Approved,Comprehensive,21841.89,1,North,11,Other,Hyderabad,Low,Agent A,Registration,4.0
+CLM0023,POL1059,CUS2073,2024-06-16,motor ,18576.31,Pending,Third-Party,3738.96,3,South,19,Collision,Chennai,Low,Agent B,Approval,31.0
+CLM0024,POL1024,CUS2143,2024-10-09,Motor,8618.77,Rejected,Third-Party,11135.03,5,North,15,Flood,Hyderabad,Critical,Agent B,Registration,59.0
+CLM0025,POL1060,CUS2146,2025-07-18,Motor,6328.56,Pending,Third-Party,8499.25,14,North,11,Natural Disaster,Coimbatore,Low,Agent D,Investigation,29.0
+CLM0026,POL1072,CUS2030,2024-01-19,motor ,14758.56,Rejected,Property Cover,5222.81,10,South,20,Fire,Chennai,Low,Agent D,Approval,4.0
+CLM0027,POL1109,CUS2006,2025-05-11,Motor,3394.72,Approved,Third-Party,12465.39,4,West,11,Fire,Coimbatore,Medium,Agent D,Payment,39.0
+CLM0028,POL1129,CUS2157,2024-06-15,Property,11552.86,Rejected,Third-Party,4124.78,4,East,18,,Madurai,Critical,Agent B,Approval,47.0
+CLM0029,POL1071,CUS2071,2024-11-02,PROPERTY,2011.32,Approved,Comprehensive,15704.65,4,East,4,Fire,Pune,Low,Agent B,Payment,44.0
+CLM0030,POL1106,CUS2102,2024-02-16,Property,7781.44,Approved,Property Cover,25737.6,7,East,11,Collision,Bengaluru,Medium,Agent B,Approval,31.0
+CLM0031,POL1144,CUS2056,2025-04-13,Motor,10132.01,Under Review,Third-Party,14799.96,12,North,17,Collision,Madurai,High,Agent E,Approval,51.0
+CLM0032,POL1031,CUS2098,2024-11-21,Motor,2998.94,Approved,Comprehensive,25298.79,11,Central,19,Theft,Coimbatore,Medium,Agent E,Payment,51.0
+CLM0033,POL1096,CUS2029,2025-01-24,Property,197103.3,Rejected,Comprehensive,22461.01,7,West,1,Theft,Madurai,High,Agent A,Approval,5.0
+CLM0034,POL1146,CUS2049,2024-03-01,Health,8577.17,Approved,Third-Party,26349.17,2,South,5,Theft,Coimbatore,Medium,Agent E,Approval,44.0
+CLM0035,POL1118,CUS2074,2024-09-09,Property,3277.89,Approved,Comprehensive,28488.08,14,South,8,Theft,Chennai,Medium,Agent B,Investigation,3.0
+CLM0036,POL1071,CUS2167,2025-04-12,Property,4690.94,Under Review,Comprehensive,15704.65,4,East,16,Collision,Bengaluru,Low,Agent C,Registration,17.0
+CLM0037,POL1056,CUS2036,2025-07-15,Health,13895.38,Pending,Property Cover,27056.12,4,West,14,Other,Hyderabad,Medium,Agent A,Payment,50.0
+CLM0038,POL1093,CUS2142,2024-05-10,motor ,2865.38,Under Review,Basic Cover,18528.25,3,North,8,Collision,Coimbatore,Low,Agent B,Approval,53.0
+CLM0039,POL1118,CUS2166,2024-09-01,Motor,11006.42,Under Review,Comprehensive,28488.08,14,Central,12,Collision,Pune,High,Agent B,Assessment,44.0
+CLM0040,POL1056,CUS2150,2025-11-22,Health,,Under Review,Property Cover,27056.12,4,Central,16,Fire,Pune,Medium,Agent B,Assessment,52.0
+CLM0041,POL1068,CUS2084,2025-11-27,Property,39046.19,Approved,Property Cover,8220.08,6,South,1,Flood,Coimbatore,Low,Agent E,Registration,16.0
+CLM0042,POL1085,CUS2067,2024-08-23,motor ,13590.13,Approved,Comprehensive,24123.28,5,Central,11,Fire,Unknown,Critical,Agent D,Approval,24.0
+CLM0043,POL1044,CUS2026,2025-01-11,Motor,21868.41,Approved,Third-Party,16809.11,4,South,19,Theft,Unknown,High,Agent C,Registration,18.0
+CLM0044,POL1108,CUS2137,2024-02-23,Property,8276.52,Under Review,Comprehensive,4968.94,15,West,3,Collision,Bengaluru,Low,Agent B,Registration,31.0
+CLM0045,POL1060,CUS2133,2025-06-15,Motor,22395.34,Approved,Third-Party,8499.25,14,West,8,Collision,Madurai,Medium,Agent B,Payment,27.0
+CLM0046,POL1038,CUS2195,2025-05-28,Motor,,Rejected,Third-Party,24812.27,3,West,13,Collision,Hyderabad,Low,Agent C,Approval,4.0
+CLM0047,POL1147,CUS2175,2025-06-12,Motor,14971.23,Pending,Comprehensive,28512.51,4,Central,9,Theft,Bengaluru,Low,Agent B,Assessment,56.0
+CLM0048,POL1091,CUS2155,2024-01-03,Motor,2646.73,Approved,Basic Cover,18399.02,15,South,17,Theft,Madurai,Medium,Agent E,Document Verification,21.0
+CLM0049,POL1055,CUS2153,2024-01-02,Health,28149.44,Approved,Third-Party,7029.07,13,West,10,Collision,Coimbatore,High,Agent B,Assessment,57.0
+CLM0050,POL1121,CUS2016,2025-06-01,Property,11754.24,Pending,Third-Party,21100.14,12,North,16,Theft,Chennai,High,Agent D,Payment,41.0
+CLM0051,POL1076,CUS2116,2024-01-14,Property,8696.14,Approved,Property Cover,5991.2,4,Central,18,Fire,Chennai,High,Agent E,Assessment,24.0
+CLM0052,POL1043,CUS2083,2024-05-04,Health,13759.32,Under Review,Basic Cover,11919.68,9,West,9,Natural Disaster,Madurai,Medium,Agent C,Payment,37.0
+CLM0053,POL1079,CUS2028,2024-07-20,PROPERTY,9053.65,Approved,Third-Party,5256.9,5,Central,10,Theft,Bengaluru,Low,Agent B,Payment,13.0
+CLM0054,POL1113,CUS2032,2025-03-28,Motor,6898.35,Approved,Property Cover,26984.26,3,South,5,Theft,Pune,Low,Agent D,Document Verification,17.0
+CLM0055,POL1022,CUS2011,2025-03-13,Property,6999.19,Approved,Comprehensive,11117.83,7,East,10,Collision,Madurai,Low,Agent E,Approval,35.0
+CLM0056,POL1069,CUS2148,2025-07-01,Motor,18785.37,Under Review,Third-Party,7978.09,15,West,11,Other,Hyderabad,High,Agent A,Approval,28.0
+CLM0057,POL1077,CUS2068,2024-04-05,Motor,13051.79,Approved,Basic Cover,11396.27,2,North,16,Collision,Chennai,Low,Agent A,Payment,21.0
+CLM0058,POL1149,CUS2084,2025-01-07,Health,471.65,Approved,Comprehensive,19319.98,3,South,1,Fire,Madurai,Medium,Agent D,Document Verification,19.0
+CLM0059,POL1100,CUS2171,2024-04-14,Motor,80330.34,Approved,Third-Party,3041.52,7,South,7,Theft,Pune,Medium,Agent B,Investigation,57.0
+CLM0060,POL1127,CUS2086,2025-12-18,Property,6315.21,Approved,Third-Party,29593.88,2,Central,17,Flood,Pune,Low,Agent C,Payment,39.0
+CLM0061,POL1022,CUS2045,2025-03-18,Motor,3184.74,Rejected,Comprehensive,11117.83,7,North,18,Fire,Coimbatore,High,Agent E,Document Verification,17.0
+CLM0062,POL1015,CUS2022,2025-06-24,Health,8284.35,Under Review,Third-Party,21570.84,6,West,13,Fire,Unknown,Medium,Agent D,Registration,56.0
+CLM0063,POL1120,CUS2113,2025-03-25,motor ,7513.26,Under Review,Basic Cover,10178.13,9,South,7,Theft,Madurai,Low,Agent B,Document Verification,48.0
+CLM0064,POL1141,CUS2118,2024-08-25,motor ,11233.45,Approved,Property Cover,16204.54,3,South,6,Collision,Coimbatore,Low,Agent C,Document Verification,7.0
+CLM0065,POL1037,CUS2082,2025-11-17,Health,15291.49,Approved,Third-Party,15600.79,15,South,4,Flood,Coimbatore,Low,Agent A,Payment,47.0
+CLM0066,POL1007,CUS2071,2024-11-24,Property,12886.73,Approved,Comprehensive,29799.01,6,East,4,Other,Madurai,High,Agent B,Registration,53.0
+CLM0067,POL1116,CUS2196,2024-12-10,Motor,42175.13,Approved,Property Cover,27991.35,1,South,16,Fire,Madurai,Medium,Agent C,Assessment,-1.0
+CLM0068,POL1008,CUS2098,2024-09-12,Motor,11786.33,Rejected,Basic Cover,28838.98,12,Central,19,Natural Disaster,Coimbatore,High,Agent E,Registration,34.0
+CLM0069,POL1073,CUS2185,2025-06-10,Motor,11008.21,Approved,Basic Cover,15156.27,14,East,8,Collision,Unknown,High,Agent C,Document Verification,55.0
+CLM0070,POL1049,CUS2192,2025-08-31,Property,6468.58,Approved,Property Cover,23101.38,7,Central,3,Fire,Unknown,Critical,Agent B,Registration,9.0
+CLM0071,POL1024,CUS2139,2024-06-13,Health,4416.58,Approved,Third-Party,11135.03,5,West,5,Theft,Hyderabad,Medium,Agent A,Registration,52.0
+CLM0072,POL1149,CUS2151,2024-01-02,Property,10081.15,Pending,Comprehensive,19319.98,3,East,9,Fire,Chennai,High,Agent E,Investigation,43.0
+CLM0073,POL1111,CUS2128,2025-06-11,Health,13066.29,Approved,Basic Cover,17950.79,12,North,5,Other,Pune,High,Agent B,Investigation,46.0
+CLM0074,POL1041,CUS2100,2025-07-12,Motor,6178.89,Approved,Third-Party,14241.91,12,South,14,Fire,Pune,Low,Agent E,Approval,8.0
+CLM0075,POL1059,CUS2054,2024-05-19,Motor,3587.13,Approved,Third-Party,3738.96,3,North,17,Natural Disaster,Unknown,High,Agent A,Assessment,35.0
+CLM0076,POL1019,CUS2151,2024-09-11,Motor,14775.01,Pending,Property Cover,13918.3,7,East,9,Other,Bengaluru,Low,Agent C,Registration,27.0
+CLM0077,POL1042,CUS2045,2025-07-15,Property,6432.43,Under Review,Comprehensive,2937.16,8,North,18,Natural Disaster,Bengaluru,Medium,Agent B,Payment,11.0
+CLM0078,POL1106,CUS2031,2024-09-30,Motor,6983.68,Approved,Property Cover,25737.6,7,East,9,Theft,Pune,Low,Agent E,Approval,18.0
+CLM0079,POL1080,CUS2084,2024-10-13,Motor,19087.18,Approved,Basic Cover,18934.36,12,South,1,Other,Bengaluru,,Agent E,Investigation,9.0
+CLM0080,POL1121,CUS2090,2025-06-21,Health,12350.4,Under Review,Third-Party,21100.14,12,North,19,Fire,Hyderabad,,Agent E,Registration,16.0
+CLM0081,POL1149,CUS2146,2025-05-31,Motor,5830.36,Rejected,Comprehensive,19319.98,3,North,11,Natural Disaster,Hyderabad,,Agent B,Payment,50.0
+CLM0082,POL1013,CUS2007,2024-09-10,Motor,4190.12,Pending,Third-Party,7856.35,4,West,1,Other,Chennai,Low,Agent B,Payment,7.0
+CLM0083,POL1009,CUS2177,2024-09-20,motor ,12613.94,Approved,Comprehensive,15672.93,10,North,6,Other,Hyderabad,Medium,Agent D,Registration,55.0
+CLM0084,POL1026,CUS2145,2024-07-30,Property,3410.48,Approved,Basic Cover,12019.72,9,North,7,Flood,Pune,Low,Agent C,Registration,26.0
+CLM0085,POL1098,CUS2056,2025-10-11,Property,8832.11,Approved,Comprehensive,9394.97,4,North,17,Fire,Pune,Low,Agent B,Approval,13.0
+CLM0086,POL1036,CUS2184,2024-07-13,motor ,4896.69,Pending,Third-Party,9720.56,3,South,9,Other,Unknown,Critical,Agent A,Registration,45.0
+CLM0087,POL1104,CUS2177,2024-03-04,Health,3050.97,Under Review,Comprehensive,12843.94,6,North,6,Other,Chennai,Critical,Agent C,Investigation,43.0
+CLM0088,POL1007,CUS2200,2024-01-05,Motor,816.87,Under Review,Comprehensive,29799.01,6,South,8,Theft,Bengaluru,Low,Agent C,Registration,13.0
+CLM0089,POL1040,CUS2028,2024-08-13,Motor,7177.16,Approved,Basic Cover,5544.67,8,Central,10,Natural Disaster,Hyderabad,Medium,Agent D,Assessment,-6.0
+CLM0090,POL1098,CUS2033,2024-10-20,PROPERTY,4747.48,Pending,Comprehensive,9394.97,4,East,11,Theft,Bengaluru,Medium,Agent A,Payment,31.0
+CLM0091,POL1033,CUS2193,2024-06-11,Property,10176.79,Under Review,Third-Party,3000.92,1,South,5,,Bengaluru,Low,Agent A,Approval,41.0
+CLM0092,POL1046,CUS2088,2024-12-20,motor ,25329.97,Approved,Property Cover,24650.48,10,West,17,Flood,Madurai,Critical,Agent A,Document Verification,58.0
+CLM0093,POL1075,CUS2104,2025-04-19,Property,28064.09,Approved,Comprehensive,25195.1,10,Central,7,Collision,Pune,High,Agent E,Payment,15.0
+CLM0094,POL1080,CUS2002,2024-06-27,Motor,8367.79,Pending,Basic Cover,18934.36,12,North,14,Collision,Madurai,High,Agent E,Assessment,10.0
+CLM0095,POL1117,CUS2090,2024-02-03,Property,4186.39,Under Review,Basic Cover,29764.27,12,North,19,Other,Hyderabad,Medium,Agent C,Registration,32.0
+CLM0096,POL1040,CUS2102,2024-07-15,motor ,14700.87,Approved,Basic Cover,5544.67,8,East,11,Other,Pune,Medium,Agent D,Document Verification,21.0
+CLM0097,POL1081,CUS2109,2025-12-12,Health,22971.53,Approved,Comprehensive,4880.72,3,West,13,,Madurai,High,Agent B,Investigation,25.0
+CLM0098,POL1092,CUS2131,2025-04-08,PROPERTY,151468.8,Approved,Property Cover,11621.55,9,East,7,Theft,Chennai,High,Agent A,Registration,40.0
+CLM0099,POL1147,CUS2173,2025-10-09,PROPERTY,6955.02,Approved,Comprehensive,28512.51,4,East,17,Theft,Bengaluru,Medium,Agent E,Registration,18.0
+CLM0100,POL1054,CUS2185,2025-05-09,motor ,7587.32,Approved,Basic Cover,19401.71,4,East,8,Fire,Pune,Medium,Agent C,Approval,32.0
+CLM0101,POL1113,CUS2155,2024-05-24,Motor,4706.34,Under Review,Property Cover,26984.26,3,South,17,Theft,Hyderabad,Medium,Agent D,Assessment,53.0
+CLM0102,POL1075,CUS2185,2025-10-05,motor ,3630.73,Approved,Comprehensive,25195.1,10,East,8,Collision,Chennai,Low,Agent E,Document Verification,43.0
+CLM0103,POL1043,CUS2028,2024-10-24,Property,78131.1,Approved,Basic Cover,11919.68,9,Central,10,Flood,Unknown,Critical,Agent C,Investigation,6.0
+CLM0104,POL1124,CUS2020,2024-01-27,Motor,7929.91,Approved,Third-Party,27350.35,9,East,20,Flood,Coimbatore,Medium,Agent D,Registration,17.0
+CLM0105,POL1013,CUS2002,2025-12-04,Motor,9112.88,Pending,Third-Party,7856.35,4,North,14,Fire,Bengaluru,Medium,Agent D,Approval,43.0
+CLM0106,POL1090,CUS2062,2024-02-07,Motor,18388.87,Approved,Third-Party,27278.65,4,West,1,Other,Chennai,Critical,Agent A,Assessment,11.0
+CLM0107,POL1094,CUS2080,2024-08-18,Motor,2440.83,Approved,Basic Cover,12125.7,14,East,6,Collision,Hyderabad,Low,Agent B,Registration,38.0
+CLM0108,POL1121,CUS2159,2024-01-25,Motor,4061.47,Approved,Third-Party,21100.14,12,North,19,Theft,Coimbatore,Medium,Agent D,Assessment,57.0
+CLM0109,POL1118,CUS2086,2025-09-06,Health,11291.73,Approved,Comprehensive,28488.08,14,Central,17,Natural Disaster,Pune,Medium,Agent B,Assessment,44.0
+CLM0110,POL1074,CUS2029,2025-10-14,Motor,3532.49,Approved,Property Cover,15557.72,6,West,1,Theft,Madurai,High,Agent D,Payment,30.0
+CLM0111,POL1117,CUS2066,2024-10-03,Motor,3356.79,Under Review,Basic Cover,29764.27,12,Central,4,Collision,Chennai,Low,Agent C,Document Verification,-3.0
+CLM0112,POL1120,CUS2094,2024-04-13,Motor,2700.39,Rejected,Basic Cover,10178.13,9,West,12,Fire,Hyderabad,Medium,Agent A,Approval,48.0
+CLM0113,POL1077,CUS2057,2024-07-26,Health,11112.64,Approved,Basic Cover,11396.27,2,West,10,Other,Madurai,Medium,Agent D,Approval,19.0
+CLM0114,POL1011,CUS2089,2024-10-04,Property,7023.15,Approved,Comprehensive,23695.72,10,North,2,Other,Madurai,Medium,Agent D,Investigation,37.0
+CLM0115,POL1139,CUS2102,2024-04-22,Property,14508.14,Approved,Basic Cover,3377.57,10,East,11,Fire,Hyderabad,Medium,Agent E,Payment,19.0
+CLM0116,POL1028,CUS2145,2024-10-07,Health,8669.86,Rejected,Comprehensive,19944.86,13,North,7,Theft,Pune,Low,Agent E,Document Verification,43.0
+CLM0117,POL1082,CUS2075,2024-03-28,Property,8762.05,Approved,Third-Party,18083.13,2,Central,2,Collision,Hyderabad,High,Agent A,Payment,18.0
+CLM0118,POL1039,CUS2090,2024-01-29,Motor,7676.1,Pending,Third-Party,23409.3,4,North,19,Collision,Bengaluru,Low,Agent D,Assessment,31.0
+CLM0119,POL1130,CUS2145,2025-04-01,PROPERTY,17063.31,Approved,Basic Cover,12919.43,9,North,7,Theft,Madurai,High,Agent D,Registration,32.0
+CLM0120,POL1075,CUS2014,2025-12-08,motor ,8052.79,Under Review,Comprehensive,25195.1,10,East,9,Other,Madurai,High,Agent C,Investigation,46.0
+CLM0121,POL1084,CUS2105,2025-02-18,Health,14333.17,Pending,Basic Cover,5813.22,10,North,11,Natural Disaster,Hyderabad,Low,Agent E,Approval,38.0
+CLM0122,POL1056,CUS2122,2025-10-12,Motor,39906.55,Approved,Property Cover,27056.12,4,West,19,Theft,Pune,Medium,Agent C,Assessment,39.0
+CLM0123,POL1073,CUS2091,2024-09-30,Health,2292.57,Approved,Basic Cover,15156.27,14,Central,15,Fire,Hyderabad,Low,Agent B,Assessment,23.0
+CLM0124,POL1117,CUS2050,2025-11-05,Motor,8310.01,Approved,Basic Cover,29764.27,12,North,3,Collision,Chennai,Medium,Agent E,Assessment,23.0
+CLM0125,POL1060,CUS2170,2025-10-07,Motor,28859.65,Approved,Third-Party,8499.25,14,West,20,Flood,Chennai,High,Agent E,Approval,29.0
+CLM0126,POL1112,CUS2099,2025-10-07,Property,6264.45,Approved,Basic Cover,14951.53,10,Central,10,Other,Pune,Medium,Agent C,Investigation,38.0
+CLM0127,POL1038,CUS2064,2025-03-30,Motor,24101.45,Under Review,Third-Party,24812.27,3,Central,1,Fire,Unknown,Low,Agent A,Investigation,12.0
+CLM0128,POL1058,CUS2172,2025-05-02,Property,4220.23,Approved,Third-Party,4878.51,1,South,2,Fire,Unknown,Low,Agent D,Investigation,42.0
+CLM0129,POL1055,CUS2163,2025-07-15,motor ,4334.24,Under Review,Third-Party,7029.07,13,West,7,,Hyderabad,,Agent C,Payment,50.0
+CLM0130,POL1147,CUS2087,2025-03-24,Motor,3591.41,Rejected,Comprehensive,28512.51,4,South,15,Fire,Hyderabad,High,Agent A,Document Verification,48.0
+CLM0131,POL1042,CUS2071,2024-10-16,Health,4799.34,Rejected,Comprehensive,2937.16,8,East,4,Collision,Hyderabad,High,Agent A,Investigation,36.0
+CLM0132,POL1070,CUS2007,2024-06-26,Property,6377.47,Rejected,Basic Cover,21189.72,8,West,1,Flood,Unknown,Low,Agent B,Assessment,19.0
+CLM0133,POL1015,CUS2150,2024-01-30,Property,5361.0,Under Review,Third-Party,21570.84,6,Central,16,Other,Coimbatore,High,Agent A,Approval,17.0
+CLM0134,POL1050,CUS2140,2025-04-08,Property,110935.34999999999,Approved,Third-Party,26123.32,4,Central,8,Natural Disaster,Coimbatore,Medium,Agent E,Registration,39.0
+CLM0135,POL1111,CUS2086,2024-08-30,Property,2642.06,Approved,Basic Cover,17950.79,12,Central,17,Theft,Madurai,,Agent A,Approval,11.0
+CLM0136,POL1130,CUS2134,2025-04-30,Motor,25628.31,Approved,Basic Cover,12919.43,9,South,18,Collision,Unknown,Low,Agent C,Assessment,3.0
+CLM0137,POL1116,CUS2126,2025-01-27,Motor,7484.06,Approved,Property Cover,27991.35,1,South,2,Flood,Coimbatore,High,Agent A,Registration,37.0
+CLM0138,POL1090,CUS2104,2025-10-31,Property,5798.68,Pending,Third-Party,27278.65,4,Central,7,Collision,Hyderabad,High,Agent E,Investigation,2.0
+CLM0139,POL1011,CUS2177,2025-01-16,Property,6183.09,Under Review,Comprehensive,23695.72,10,North,6,Theft,Coimbatore,Medium,Agent E,Payment,6.0
+CLM0140,POL1127,CUS2116,2024-11-05,Motor,3551.86,Approved,Third-Party,29593.88,2,Central,18,Flood,Madurai,High,Agent A,Approval,18.0
+CLM0141,POL1126,CUS2109,2024-09-01,Health,3863.63,Approved,Basic Cover,12327.81,15,West,13,Other,Hyderabad,High,Agent D,Investigation,58.0
+CLM0142,POL1017,CUS2001,2024-01-13,Health,8740.47,Under Review,Basic Cover,5085.06,14,South,12,Theft,Bengaluru,High,Agent C,Document Verification,24.0
+CLM0143,POL1119,CUS2018,2024-09-12,Motor,4165.93,Approved,Property Cover,10097.57,1,North,6,Flood,Hyderabad,High,Agent B,Registration,32.0
+CLM0144,POL1136,CUS2118,2024-05-26,Motor,36588.56,Approved,Property Cover,23044.21,7,South,6,Theft,Coimbatore,Low,Agent B,Approval,28.0
+CLM0145,POL1145,CUS2104,2024-09-09,PROPERTY,13379.01,Pending,Property Cover,21896.86,13,Central,7,Fire,Hyderabad,Medium,Agent C,Investigation,7.0
+CLM0146,POL1088,CUS2082,2025-12-08,Property,10725.5,Approved,Basic Cover,25932.71,4,South,4,Collision,Madurai,Low,Agent A,Investigation,48.0
+CLM0147,POL1079,CUS2039,2025-05-02,Property,21952.68,Pending,Third-Party,5256.9,5,North,20,Collision,Hyderabad,High,Agent E,Investigation,26.0
+CLM0148,POL1093,CUS2159,2025-12-01,PROPERTY,19585.76,Under Review,Basic Cover,18528.25,3,North,19,Fire,Coimbatore,Medium,Agent D,Assessment,55.0
+CLM0149,POL1107,CUS2052,2024-08-28,Property,4049.28,Approved,Comprehensive,4653.63,9,North,12,Natural Disaster,Coimbatore,Medium,Agent A,Document Verification,8.0
+CLM0150,POL1039,CUS2124,2025-06-19,PROPERTY,8625.86,Approved,Third-Party,23409.3,4,Central,7,Flood,Bengaluru,High,Agent A,Registration,28.0
+CLM0151,POL1020,CUS2158,2024-04-13,Health,7591.86,Rejected,Property Cover,25343.41,5,East,18,Natural Disaster,Pune,Low,Agent E,Approval,59.0
+CLM0152,POL1144,CUS2071,2025-03-28,Health,5537.63,Approved,Third-Party,14799.96,12,East,4,Collision,Bengaluru,Medium,Agent A,Investigation,14.0
+CLM0153,POL1074,CUS2189,2024-08-01,Property,,Under Review,Property Cover,15557.72,6,North,13,Fire,Coimbatore,Low,Agent C,Registration,32.0
+CLM0154,POL1051,CUS2049,2024-10-27,Motor,9561.24,Under Review,Property Cover,26195.05,1,South,5,Flood,Chennai,Medium,Agent E,Investigation,34.0
+CLM0155,POL1068,CUS2080,2025-07-30,Motor,21430.98,Approved,Property Cover,8220.08,6,East,6,Natural Disaster,Unknown,High,Agent B,Payment,4.0
+CLM0156,POL1076,CUS2164,2024-10-14,Motor,4450.15,Approved,Property Cover,5991.2,4,East,10,,Madurai,High,Agent C,Approval,17.0
+CLM0157,POL1116,CUS2103,2025-01-07,Motor,9936.31,Approved,Property Cover,27991.35,1,West,15,Collision,Chennai,High,Agent B,Payment,41.0
+CLM0158,POL1117,CUS2106,2024-08-30,Health,2256.32,Approved,Basic Cover,29764.27,12,West,17,Fire,Madurai,High,Agent B,Assessment,31.0
+CLM0159,POL1101,CUS2092,2025-11-11,Motor,8531.67,Approved,Comprehensive,22944.01,15,North,10,Fire,Coimbatore,Medium,Agent D,Approval,35.0
+CLM0160,POL1103,CUS2069,2024-11-23,Property,2806.32,Approved,Comprehensive,11358.29,15,East,16,Theft,Bengaluru,Low,Agent B,Registration,29.0
+CLM0161,POL1093,CUS2167,2025-05-14,Motor,7826.98,Under Review,Basic Cover,18528.25,3,East,16,Natural Disaster,Bengaluru,Medium,Agent C,Registration,27.0
+CLM0162,POL1054,CUS2155,2025-10-06,Motor,3391.4,Approved,Basic Cover,19401.71,4,South,17,Other,Unknown,Medium,Agent E,Assessment,13.0
+CLM0163,POL1103,CUS2046,2024-03-08,Health,12425.95,Approved,Comprehensive,11358.29,15,Central,10,Other,Bengaluru,Medium,Agent B,Registration,37.0
+CLM0164,POL1046,CUS2056,2024-01-13,Property,8419.11,Approved,Property Cover,24650.48,10,North,17,Natural Disaster,Hyderabad,Medium,Agent B,Approval,35.0
+CLM0165,POL1144,CUS2143,2025-07-09,Health,5122.1,Rejected,Third-Party,14799.96,12,North,15,Collision,Chennai,High,Agent B,Document Verification,13.0
+CLM0166,POL1076,CUS2024,2025-08-28,Motor,6318.15,Under Review,Property Cover,5991.2,4,Central,16,Flood,Coimbatore,High,Agent A,Investigation,26.0
+CLM0167,POL1025,CUS2074,2024-01-14,Property,6506.11,Approved,Basic Cover,4977.53,3,South,8,Other,Madurai,,Agent E,Approval,36.0
+CLM0168,POL1100,CUS2192,2025-02-01,Health,11435.18,Under Review,Third-Party,3041.52,7,Central,3,Theft,Bengaluru,Critical,Agent C,Assessment,7.0
+CLM0169,POL1112,CUS2011,2025-03-05,Motor,1967.06,Pending,Basic Cover,14951.53,10,East,10,Fire,Coimbatore,Medium,Agent D,Payment,59.0
+CLM0170,POL1109,CUS2156,2024-11-03,Property,4889.8,Approved,Third-Party,12465.39,4,Central,6,Theft,Bengaluru,High,Agent C,Approval,38.0
+CLM0171,POL1121,CUS2137,2024-02-27,Property,4446.47,Approved,Third-Party,21100.14,12,West,3,Theft,Chennai,Medium,Agent A,Document Verification,14.0
+CLM0172,POL1140,CUS2143,2025-06-12,PROPERTY,6932.81,Approved,Property Cover,5018.19,13,North,15,Other,Pune,High,Agent E,Investigation,48.0
+CLM0173,POL1058,CUS2141,2024-03-19,Health,4628.79,Under Review,Third-Party,4878.51,1,South,4,Natural Disaster,Hyderabad,Medium,Agent E,Payment,31.0
+CLM0174,POL1019,CUS2124,2024-11-03,Motor,10498.75,Approved,Property Cover,13918.3,7,Central,7,Natural Disaster,Coimbatore,Medium,Agent C,Document Verification,29.0
+CLM0175,POL1131,CUS2055,2025-10-14,Motor,3535.62,Under Review,Basic Cover,23615.71,9,South,7,Flood,Coimbatore,Medium,Agent A,Investigation,11.0
+CLM0176,POL1045,CUS2130,2025-06-20,Motor,15057.09,Rejected,Property Cover,23069.23,10,South,6,Other,Coimbatore,,Agent D,Investigation,36.0
+CLM0177,POL1102,CUS2180,2025-11-13,Motor,10044.66,Under Review,Property Cover,25748.86,11,North,14,Collision,Unknown,Low,Agent C,Payment,15.0
+CLM0178,POL1129,CUS2110,2025-02-11,Motor,2209.62,Approved,Third-Party,4124.78,4,East,18,Other,Chennai,Medium,Agent B,Payment,29.0
+CLM0179,POL1084,CUS2047,2025-05-19,Health,9723.18,Under Review,Basic Cover,5813.22,10,South,10,Natural Disaster,Unknown,Low,Agent D,Assessment,22.0
+CLM0180,POL1013,CUS2042,2024-03-07,Motor,6801.47,Pending,Third-Party,7856.35,4,North,12,Theft,Bengaluru,Medium,Agent A,Assessment,8.0
+CLM0181,POL1136,CUS2047,2025-07-02,motor ,1643.47,Approved,Property Cover,23044.21,7,South,10,Natural Disaster,Bengaluru,High,Agent D,Investigation,12.0
+CLM0182,POL1139,CUS2055,2025-08-12,Motor,3268.66,Approved,Basic Cover,3377.57,10,South,7,Other,Hyderabad,High,Agent B,Document Verification,20.0
+CLM0183,POL1029,CUS2016,2024-03-22,Property,35796.11,Approved,Property Cover,8736.37,10,North,16,Natural Disaster,Chennai,Critical,Agent D,Assessment,31.0
+CLM0184,POL1030,CUS2016,2025-11-16,motor ,7109.2,Approved,Third-Party,15361.16,13,North,16,Other,Hyderabad,Low,Agent D,Investigation,26.0
+CLM0185,POL1099,CUS2014,2024-10-04,Motor,3076.67,Approved,Third-Party,5908.33,6,East,9,Collision,Madurai,Medium,Agent E,Registration,38.0
+CLM0186,POL1149,CUS2160,2025-10-01,Health,10404.01,Rejected,Comprehensive,19319.98,3,West,18,,Chennai,Medium,Agent B,Registration,6.0
+CLM0187,POL1004,CUS2183,2025-10-29,Health,39768.2,Approved,Comprehensive,21948.6,8,North,3,Natural Disaster,Bengaluru,High,Agent B,Document Verification,31.0
+CLM0188,POL1106,CUS2084,2024-03-28,PROPERTY,5090.08,Pending,Property Cover,25737.6,7,South,1,Collision,Bengaluru,Medium,Agent B,Document Verification,60.0
+CLM0189,POL1011,CUS2132,2025-08-07,motor ,13229.71,Approved,Comprehensive,23695.72,10,East,3,Natural Disaster,Coimbatore,Medium,Agent D,Payment,19.0
+CLM0190,POL1002,CUS2147,2024-03-14,Motor,6854.84,Approved,Property Cover,22320.26,5,North,19,Natural Disaster,Hyderabad,Low,Agent B,Registration,58.0
+CLM0191,POL1103,CUS2031,2025-05-27,Property,5037.96,Pending,Comprehensive,11358.29,15,East,9,Other,Hyderabad,Critical,Agent B,Document Verification,43.0
+CLM0192,POL1139,CUS2006,2025-03-23,Motor,11350.54,Rejected,Basic Cover,3377.57,10,West,11,Flood,Pune,Medium,Agent D,Assessment,40.0
+CLM0193,POL1029,CUS2024,2025-01-15,Motor,10743.86,Rejected,Property Cover,8736.37,10,Central,16,Flood,Coimbatore,High,Agent D,Approval,57.0
+CLM0194,POL1071,CUS2065,2025-09-01,Motor,2107.83,Approved,Comprehensive,15704.65,4,West,5,Other,Hyderabad,Low,Agent B,Payment,23.0
+CLM0195,POL1068,CUS2090,2024-12-13,Motor,7018.38,Approved,Property Cover,8220.08,6,North,19,Theft,Coimbatore,High,Agent D,Document Verification,7.0
+CLM0196,POL1020,CUS2117,2025-08-01,Health,19893.38,Approved,Property Cover,25343.41,5,South,5,Flood,Bengaluru,High,Agent B,Document Verification,19.0
+CLM0197,POL1089,CUS2046,2025-09-10,Motor,2384.59,Approved,Basic Cover,12501.98,8,Central,10,Theft,Chennai,Medium,Agent C,Approval,24.0
+CLM0198,POL1031,CUS2099,2025-01-12,motor ,1809.79,Approved,Comprehensive,25298.79,11,Central,10,Natural Disaster,Coimbatore,Medium,Agent B,Assessment,20.0
+CLM0199,POL1007,CUS2030,2024-03-15,Motor,41032.58,Rejected,Comprehensive,29799.01,6,South,20,Fire,Unknown,High,Agent B,Document Verification,49.0
+CLM0200,POL1062,CUS2174,2025-05-23,Motor,5441.41,Approved,Property Cover,27134.15,13,South,3,Theft,Hyderabad,Low,Agent C,Investigation,9.0
+CLM0201,POL1087,CUS2040,2024-05-16,Motor,14028.09,Approved,Property Cover,13031.54,10,West,12,,Hyderabad,Medium,Agent B,Approval,26.0
+CLM0202,POL1027,CUS2106,2024-07-26,Health,17982.72,Approved,Property Cover,19985.62,14,West,17,Flood,Unknown,Low,Agent C,Registration,32.0
+CLM0203,POL1011,CUS2009,2025-10-29,Motor,22514.18,Approved,Comprehensive,23695.72,10,East,19,Theft,Hyderabad,High,Agent B,Approval,4.0
+CLM0204,POL1086,CUS2074,2024-12-03,Motor,11595.75,Approved,Third-Party,29855.36,10,South,8,,Hyderabad,Low,Agent A,Assessment,6.0
+CLM0205,POL1148,CUS2128,2025-01-14,Property,3684.46,Rejected,Property Cover,9634.84,2,North,5,Fire,Chennai,High,Agent D,Payment,37.0
+CLM0206,POL1038,CUS2086,2024-09-26,Property,8717.01,Approved,Third-Party,24812.27,3,Central,17,Other,Madurai,Medium,Agent B,Document Verification,59.0
+CLM0207,POL1028,CUS2028,2024-10-31,Health,45149.46,Approved,Comprehensive,19944.86,13,Central,10,Fire,Madurai,Medium,Agent E,Payment,24.0
+CLM0208,POL1041,CUS2002,2024-11-19,Property,1229.14,Pending,Third-Party,14241.91,12,North,14,Fire,Bengaluru,Low,Agent B,Payment,5.0
+CLM0209,POL1043,CUS2149,2024-05-18,motor ,8628.64,Rejected,Basic Cover,11919.68,9,East,14,Flood,Madurai,Medium,Agent B,Approval,8.0
+CLM0210,POL1043,CUS2180,2024-05-31,Motor,4692.7,Approved,Basic Cover,11919.68,9,North,14,Theft,Madurai,Medium,Agent E,Assessment,43.0
+CLM0211,POL1110,CUS2130,2024-05-11,PROPERTY,7875.18,Approved,Comprehensive,15770.52,5,South,6,Natural Disaster,Unknown,High,Agent E,Document Verification,37.0
+CLM0212,POL1040,CUS2052,2025-11-04,PROPERTY,15805.15,Approved,Basic Cover,5544.67,8,North,12,Flood,Coimbatore,Medium,Agent A,Registration,54.0
+CLM0213,POL1079,CUS2126,2024-05-21,Motor,6241.62,Approved,Third-Party,5256.9,5,South,2,Theft,Madurai,Medium,Agent E,Registration,47.0
+CLM0214,POL1042,CUS2020,2024-06-02,Property,4151.61,Pending,Comprehensive,2937.16,8,East,20,Theft,Unknown,Low,Agent D,Registration,-2.0
+CLM0215,POL1135,CUS2129,2025-12-28,motor ,3573.7,Approved,Property Cover,20235.18,8,West,4,Fire,Madurai,High,Agent D,Assessment,46.0
+CLM0216,POL1091,CUS2104,2024-08-02,PROPERTY,10667.29,Approved,Basic Cover,18399.02,15,Central,7,Collision,Madurai,Low,Agent A,Payment,21.0
+CLM0217,POL1074,CUS2026,2025-03-02,Health,3293.31,Pending,Property Cover,15557.72,6,South,19,,Unknown,,Agent A,Approval,11.0
+CLM0218,POL1111,CUS2094,2024-01-29,Motor,13586.79,Approved,Basic Cover,17950.79,12,West,12,Other,Pune,Medium,Agent A,Payment,24.0
+CLM0219,POL1008,CUS2029,2024-03-12,Property,2931.02,Approved,Basic Cover,28838.98,12,West,1,Collision,Coimbatore,High,Agent B,Assessment,5.0
+CLM0220,POL1144,CUS2115,2024-07-23,Motor,5928.5,Approved,Third-Party,14799.96,12,Central,2,Fire,Bengaluru,Medium,Agent E,Registration,2.0
+CLM0221,POL1034,CUS2004,2024-12-04,motor ,11599.77,Approved,Comprehensive,7788.36,7,Central,19,Fire,Pune,Low,Agent A,Registration,17.0
+CLM0222,POL1147,CUS2036,2024-11-28,Motor,9181.87,Approved,Comprehensive,28512.51,4,West,14,Natural Disaster,Pune,Medium,Agent A,Investigation,4.0
+CLM0223,POL1086,CUS2159,2025-01-12,Health,2860.76,Approved,Third-Party,29855.36,10,North,19,Other,Hyderabad,Critical,Agent D,Investigation,58.0
+CLM0224,POL1099,CUS2104,2024-10-22,motor ,5753.67,Approved,Third-Party,5908.33,6,Central,7,Flood,Bengaluru,Low,Agent A,Document Verification,57.0
+CLM0225,POL1114,CUS2181,2024-11-09,Motor,12955.48,Approved,Third-Party,26322.7,15,East,14,Theft,Hyderabad,High,Agent C,Document Verification,7.0
+CLM0226,POL1117,CUS2119,2024-02-02,Property,4068.79,Approved,Basic Cover,29764.27,12,East,17,Fire,Coimbatore,Medium,Agent D,Payment,55.0
+CLM0227,POL1001,CUS2048,2024-10-24,Property,,Under Review,Basic Cover,13417.73,2,East,2,Flood,Coimbatore,Medium,Agent E,Registration,9.0
+CLM0228,POL1010,CUS2184,2025-08-24,Motor,8204.79,Approved,Property Cover,20042.17,9,South,9,Collision,Hyderabad,Low,Agent E,Document Verification,7.0
+CLM0229,POL1069,CUS2077,2025-06-01,Property,11132.21,Rejected,Third-Party,7978.09,15,West,17,Other,Unknown,Critical,Agent E,Approval,5.0
+CLM0230,POL1145,CUS2002,2024-07-28,Property,3724.97,Approved,Property Cover,21896.86,13,North,14,Fire,Coimbatore,Medium,Agent A,Investigation,57.0
+CLM0231,POL1077,CUS2092,2024-09-04,motor ,8687.75,Approved,Basic Cover,11396.27,2,North,10,Flood,Chennai,Low,Agent D,Investigation,36.0
+CLM0232,POL1028,CUS2081,2024-10-13,Property,9586.54,Rejected,Comprehensive,19944.86,13,North,20,,Chennai,High,Agent C,Investigation,44.0
+CLM0233,POL1030,CUS2102,2025-02-01,Property,8916.93,Approved,Third-Party,15361.16,13,East,11,Fire,Hyderabad,Critical,Agent A,Registration,52.0
+CLM0234,POL1058,CUS2023,2024-07-26,Health,6163.09,Rejected,Third-Party,4878.51,1,Central,5,Other,Chennai,Medium,Agent A,Assessment,2.0
+CLM0235,POL1054,CUS2053,2025-06-01,Property,2350.3,Under Review,Basic Cover,19401.71,4,West,10,Natural Disaster,Unknown,Medium,Agent C,Approval,44.0
+CLM0236,POL1115,CUS2028,2024-12-22,Motor,4015.54,Rejected,Third-Party,8440.89,14,Central,10,Flood,Pune,Medium,Agent D,Payment,32.0
+CLM0237,POL1092,CUS2104,2024-05-25,Motor,18766.82,Approved,Property Cover,11621.55,9,Central,7,Flood,Bengaluru,Low,Agent E,Approval,13.0
+CLM0238,POL1037,CUS2119,2024-02-03,Health,5702.14,Under Review,Third-Party,15600.79,15,East,17,Natural Disaster,Hyderabad,Critical,Agent B,Registration,23.0
+CLM0239,POL1022,CUS2129,2024-08-29,Health,5995.38,Approved,Comprehensive,11117.83,7,West,4,Other,Madurai,Low,Agent E,Assessment,50.0
+CLM0240,POL1066,CUS2167,2024-08-11,motor ,20951.81,Pending,Basic Cover,9056.88,3,East,16,Flood,Coimbatore,Low,Agent C,Approval,49.0
+CLM0241,POL1141,CUS2145,2025-01-18,Motor,5227.67,Pending,Property Cover,16204.54,3,North,7,Other,Bengaluru,High,Agent C,Payment,14.0
+CLM0242,POL1031,CUS2164,2025-10-06,Property,14889.41,Rejected,Comprehensive,25298.79,11,East,10,Collision,Chennai,High,Agent A,Registration,42.0
+CLM0243,POL1006,CUS2192,2025-01-13,Property,3353.45,Approved,Third-Party,4600.47,8,Central,3,Collision,Coimbatore,Low,Agent B,Document Verification,41.0
+CLM0244,POL1054,CUS2021,2025-03-08,Motor,3163.2,Approved,Basic Cover,19401.71,4,East,12,Theft,Coimbatore,Medium,Agent E,Assessment,30.0
+CLM0245,POL1132,CUS2118,2024-07-29,Health,43088.69,Pending,Comprehensive,14710.11,1,South,6,Natural Disaster,Coimbatore,Medium,Agent E,Investigation,7.0
+CLM0246,POL1003,CUS2077,2024-10-22,Health,17925.15,Under Review,Comprehensive,6424.91,3,West,17,Collision,Madurai,Medium,Agent B,Payment,39.0
+CLM0247,POL1021,CUS2092,2025-01-02,Motor,3897.3,Pending,Third-Party,10574.58,3,North,10,Fire,Chennai,Low,Agent B,Assessment,9.0
+CLM0248,POL1140,CUS2084,2024-08-16,PROPERTY,2370.42,Approved,Property Cover,5018.19,13,South,1,Flood,Bengaluru,Critical,Agent E,Registration,27.0
+CLM0249,POL1143,CUS2157,2025-10-12,Health,3092.07,Pending,Comprehensive,15290.71,1,East,18,Collision,Hyderabad,Low,Agent D,Investigation,3.0
+CLM0250,POL1036,CUS2068,2024-05-16,Motor,6948.81,Approved,Third-Party,9720.56,3,North,16,Theft,Chennai,Medium,Agent A,Assessment,15.0

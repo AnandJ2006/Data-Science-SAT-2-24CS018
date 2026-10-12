@@ -1,0 +1,7 @@
+process_stage,claims,average_settlement_days,median_settlement_days,total_claim_value
+Document Verification,32,30.625,29.0,306585.67
+Registration,49,29.551020408163264,29.0,709256.1900000001
+Payment,42,29.428571428571427,29.5,432146.27999999997
+Assessment,40,28.375,29.0,441963.52
+Approval,48,28.270833333333332,28.0,655218.4
+Investigation,39,28.205128205128204,29.0,506447.2

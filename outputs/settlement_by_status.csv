@@ -1,0 +1,5 @@
+claim_status,average_days,claim_count
+Rejected,31.17241379310345,29
+Under Review,29.13953488372093,43
+Approved,28.693877551020407,147
+Pending,28.419354838709676,31

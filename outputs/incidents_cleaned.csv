@@ -1,0 +1,251 @@
+claim_number,incident_type,location,severity
+CLM0001,Collision,Pune,High
+CLM0002,Theft,Unknown,Low
+CLM0003,Collision,Chennai,Low
+CLM0004,Theft,Hyderabad,Medium
+CLM0005,Flood,Madurai,Critical
+CLM0006,Other,Bengaluru,Medium
+CLM0007,Other,Hyderabad,Low
+CLM0008,Theft,Bengaluru,Medium
+CLM0009,Flood,Unknown,Low
+CLM0010,Flood,Madurai,Medium
+CLM0011,Natural Disaster,Pune,Low
+CLM0012,Fire,Hyderabad,Medium
+CLM0013,Other,Chennai,Medium
+CLM0014,Flood,Pune,Low
+CLM0015,Theft,Madurai,High
+CLM0016,Fire,Chennai,Medium
+CLM0017,Collision,Chennai,Medium
+CLM0018,Natural Disaster,Coimbatore,High
+CLM0019,Collision,Hyderabad,Critical
+CLM0020,Flood,Chennai,Low
+CLM0021,Other,Coimbatore,Medium
+CLM0022,Other,Hyderabad,Low
+CLM0023,Collision,Chennai,Low
+CLM0024,Flood,Hyderabad,Critical
+CLM0025,Natural Disaster,Coimbatore,Low
+CLM0026,Fire,Chennai,Low
+CLM0027,Fire,Coimbatore,Medium
+CLM0028,Unknown,Madurai,Critical
+CLM0029,Fire,Pune,Low
+CLM0030,Collision,Bengaluru,Medium
+CLM0031,Collision,Madurai,High
+CLM0032,Theft,Coimbatore,Medium
+CLM0033,Theft,Madurai,High
+CLM0034,Theft,Coimbatore,Medium
+CLM0035,Theft,Chennai,Medium
+CLM0036,Collision,Bengaluru,Low
+CLM0037,Other,Hyderabad,Medium
+CLM0038,Collision,Coimbatore,Low
+CLM0039,Collision,Pune,High
+CLM0040,Fire,Pune,Medium
+CLM0041,Flood,Coimbatore,Low
+CLM0042,Fire,Unknown,Critical
+CLM0043,Theft,Unknown,High
+CLM0044,Collision,Bengaluru,Low
+CLM0045,Collision,Madurai,Medium
+CLM0046,Collision,Hyderabad,Low
+CLM0047,Theft,Bengaluru,Low
+CLM0048,Theft,Madurai,Medium
+CLM0049,Collision,Coimbatore,High
+CLM0050,Theft,Chennai,High
+CLM0051,Fire,Chennai,High
+CLM0052,Natural Disaster,Madurai,Medium
+CLM0053,Theft,Bengaluru,Low
+CLM0054,Theft,Pune,Low
+CLM0055,Collision,Madurai,Low
+CLM0056,Other,Hyderabad,High
+CLM0057,Collision,Chennai,Low
+CLM0058,Fire,Madurai,Medium
+CLM0059,Theft,Pune,Medium
+CLM0060,Flood,Pune,Low
+CLM0061,Fire,Coimbatore,High
+CLM0062,Fire,Unknown,Medium
+CLM0063,Theft,Madurai,Low
+CLM0064,Collision,Coimbatore,Low
+CLM0065,Flood,Coimbatore,Low
+CLM0066,Other,Madurai,High
+CLM0067,Fire,Madurai,Medium
+CLM0068,Natural Disaster,Coimbatore,High
+CLM0069,Collision,Unknown,High
+CLM0070,Fire,Unknown,Critical
+CLM0071,Theft,Hyderabad,Medium
+CLM0072,Fire,Chennai,High
+CLM0073,Other,Pune,High
+CLM0074,Fire,Pune,Low
+CLM0075,Natural Disaster,Unknown,High
+CLM0076,Other,Bengaluru,Low
+CLM0077,Natural Disaster,Bengaluru,Medium
+CLM0078,Theft,Pune,Low
+CLM0079,Other,Bengaluru,Unknown
+CLM0080,Fire,Hyderabad,Unknown
+CLM0081,Natural Disaster,Hyderabad,Unknown
+CLM0082,Other,Chennai,Low
+CLM0083,Other,Hyderabad,Medium
+CLM0084,Flood,Pune,Low
+CLM0085,Fire,Pune,Low
+CLM0086,Other,Unknown,Critical
+CLM0087,Other,Chennai,Critical
+CLM0088,Theft,Bengaluru,Low
+CLM0089,Natural Disaster,Hyderabad,Medium
+CLM0090,Theft,Bengaluru,Medium
+CLM0091,Unknown,Bengaluru,Low
+CLM0092,Flood,Madurai,Critical
+CLM0093,Collision,Pune,High
+CLM0094,Collision,Madurai,High
+CLM0095,Other,Hyderabad,Medium
+CLM0096,Other,Pune,Medium
+CLM0097,Unknown,Madurai,High
+CLM0098,Theft,Chennai,High
+CLM0099,Theft,Bengaluru,Medium
+CLM0100,Fire,Pune,Medium
+CLM0101,Theft,Hyderabad,Medium
+CLM0102,Collision,Chennai,Low
+CLM0103,Flood,Unknown,Critical
+CLM0104,Flood,Coimbatore,Medium
+CLM0105,Fire,Bengaluru,Medium
+CLM0106,Other,Chennai,Critical
+CLM0107,Collision,Hyderabad,Low
+CLM0108,Theft,Coimbatore,Medium
+CLM0109,Natural Disaster,Pune,Medium
+CLM0110,Theft,Madurai,High
+CLM0111,Collision,Chennai,Low
+CLM0112,Fire,Hyderabad,Medium
+CLM0113,Other,Madurai,Medium
+CLM0114,Other,Madurai,Medium
+CLM0115,Fire,Hyderabad,Medium
+CLM0116,Theft,Pune,Low
+CLM0117,Collision,Hyderabad,High
+CLM0118,Collision,Bengaluru,Low
+CLM0119,Theft,Madurai,High
+CLM0120,Other,Madurai,High
+CLM0121,Natural Disaster,Hyderabad,Low
+CLM0122,Theft,Pune,Medium
+CLM0123,Fire,Hyderabad,Low
+CLM0124,Collision,Chennai,Medium
+CLM0125,Flood,Chennai,High
+CLM0126,Other,Pune,Medium
+CLM0127,Fire,Unknown,Low
+CLM0128,Fire,Unknown,Low
+CLM0129,Unknown,Hyderabad,Unknown
+CLM0130,Fire,Hyderabad,High
+CLM0131,Collision,Hyderabad,High
+CLM0132,Flood,Unknown,Low
+CLM0133,Other,Coimbatore,High
+CLM0134,Natural Disaster,Coimbatore,Medium
+CLM0135,Theft,Madurai,Unknown
+CLM0136,Collision,Unknown,Low
+CLM0137,Flood,Coimbatore,High
+CLM0138,Collision,Hyderabad,High
+CLM0139,Theft,Coimbatore,Medium
+CLM0140,Flood,Madurai,High
+CLM0141,Other,Hyderabad,High
+CLM0142,Theft,Bengaluru,High
+CLM0143,Flood,Hyderabad,High
+CLM0144,Theft,Coimbatore,Low
+CLM0145,Fire,Hyderabad,Medium
+CLM0146,Collision,Madurai,Low
+CLM0147,Collision,Hyderabad,High
+CLM0148,Fire,Coimbatore,Medium
+CLM0149,Natural Disaster,Coimbatore,Medium
+CLM0150,Flood,Bengaluru,High
+CLM0151,Natural Disaster,Pune,Low
+CLM0152,Collision,Bengaluru,Medium
+CLM0153,Fire,Coimbatore,Low
+CLM0154,Flood,Chennai,Medium
+CLM0155,Natural Disaster,Unknown,High
+CLM0156,Unknown,Madurai,High
+CLM0157,Collision,Chennai,High
+CLM0158,Fire,Madurai,High
+CLM0159,Fire,Coimbatore,Medium
+CLM0160,Theft,Bengaluru,Low
+CLM0161,Natural Disaster,Bengaluru,Medium
+CLM0162,Other,Unknown,Medium
+CLM0163,Other,Bengaluru,Medium
+CLM0164,Natural Disaster,Hyderabad,Medium
+CLM0165,Collision,Chennai,High
+CLM0166,Flood,Coimbatore,High
+CLM0167,Other,Madurai,Unknown
+CLM0168,Theft,Bengaluru,Critical
+CLM0169,Fire,Coimbatore,Medium
+CLM0170,Theft,Bengaluru,High
+CLM0171,Theft,Chennai,Medium
+CLM0172,Other,Pune,High
+CLM0173,Natural Disaster,Hyderabad,Medium
+CLM0174,Natural Disaster,Coimbatore,Medium
+CLM0175,Flood,Coimbatore,Medium
+CLM0176,Other,Coimbatore,Unknown
+CLM0177,Collision,Unknown,Low
+CLM0178,Other,Chennai,Medium
+CLM0179,Natural Disaster,Unknown,Low
+CLM0180,Theft,Bengaluru,Medium
+CLM0181,Natural Disaster,Bengaluru,High
+CLM0182,Other,Hyderabad,High
+CLM0183,Natural Disaster,Chennai,Critical
+CLM0184,Other,Hyderabad,Low
+CLM0185,Collision,Madurai,Medium
+CLM0186,Unknown,Chennai,Medium
+CLM0187,Natural Disaster,Bengaluru,High
+CLM0188,Collision,Bengaluru,Medium
+CLM0189,Natural Disaster,Coimbatore,Medium
+CLM0190,Natural Disaster,Hyderabad,Low
+CLM0191,Other,Hyderabad,Critical
+CLM0192,Flood,Pune,Medium
+CLM0193,Flood,Coimbatore,High
+CLM0194,Other,Hyderabad,Low
+CLM0195,Theft,Coimbatore,High
+CLM0196,Flood,Bengaluru,High
+CLM0197,Theft,Chennai,Medium
+CLM0198,Natural Disaster,Coimbatore,Medium
+CLM0199,Fire,Unknown,High
+CLM0200,Theft,Hyderabad,Low
+CLM0201,Unknown,Hyderabad,Medium
+CLM0202,Flood,Unknown,Low
+CLM0203,Theft,Hyderabad,High
+CLM0204,Unknown,Hyderabad,Low
+CLM0205,Fire,Chennai,High
+CLM0206,Other,Madurai,Medium
+CLM0207,Fire,Madurai,Medium
+CLM0208,Fire,Bengaluru,Low
+CLM0209,Flood,Madurai,Medium
+CLM0210,Theft,Madurai,Medium
+CLM0211,Natural Disaster,Unknown,High
+CLM0212,Flood,Coimbatore,Medium
+CLM0213,Theft,Madurai,Medium
+CLM0214,Theft,Unknown,Low
+CLM0215,Fire,Madurai,High
+CLM0216,Collision,Madurai,Low
+CLM0217,Unknown,Unknown,Unknown
+CLM0218,Other,Pune,Medium
+CLM0219,Collision,Coimbatore,High
+CLM0220,Fire,Bengaluru,Medium
+CLM0221,Fire,Pune,Low
+CLM0222,Natural Disaster,Pune,Medium
+CLM0223,Other,Hyderabad,Critical
+CLM0224,Flood,Bengaluru,Low
+CLM0225,Theft,Hyderabad,High
+CLM0226,Fire,Coimbatore,Medium
+CLM0227,Flood,Coimbatore,Medium
+CLM0228,Collision,Hyderabad,Low
+CLM0229,Other,Unknown,Critical
+CLM0230,Fire,Coimbatore,Medium
+CLM0231,Flood,Chennai,Low
+CLM0232,Unknown,Chennai,High
+CLM0233,Fire,Hyderabad,Critical
+CLM0234,Other,Chennai,Medium
+CLM0235,Natural Disaster,Unknown,Medium
+CLM0236,Flood,Pune,Medium
+CLM0237,Flood,Bengaluru,Low
+CLM0238,Natural Disaster,Hyderabad,Critical
+CLM0239,Other,Madurai,Low
+CLM0240,Flood,Coimbatore,Low
+CLM0241,Other,Bengaluru,High
+CLM0242,Collision,Chennai,High
+CLM0243,Collision,Coimbatore,Low
+CLM0244,Theft,Coimbatore,Medium
+CLM0245,Natural Disaster,Coimbatore,Medium
+CLM0246,Collision,Madurai,Medium
+CLM0247,Fire,Chennai,Low
+CLM0248,Flood,Bengaluru,Critical
+CLM0249,Collision,Hyderabad,Low
+CLM0250,Theft,Chennai,Medium
